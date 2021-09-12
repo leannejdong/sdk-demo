@@ -1,0 +1,5 @@
+[requires]
+bitwyresdk/1.0.0
+
+[generators]
+cmake
